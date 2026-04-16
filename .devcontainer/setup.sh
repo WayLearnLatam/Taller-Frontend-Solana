@@ -35,4 +35,6 @@ nvm use node
 
 npm install -g yarn
 
+npm install @solana/wallet-adapter-react @solana/wallet-adapter-react-ui @solana/wallet-adapter-wallets @solana/web3.js
+
 echo "Entorno listo para usar!!! :D"
